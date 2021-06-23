@@ -1,2 +1,2 @@
-# Mrezno-Programiranje
-Postovani Profesor Ante Projic 
+Mrezno prog
+Duje Duplancic
